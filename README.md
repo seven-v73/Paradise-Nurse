@@ -19,7 +19,7 @@ Paradise Nursery is an interactive e-commerce web application built using React 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone https://github.com/seven-v73/Paradise-Nurse
    cd Paradise_Nurse
    npm install
    npm run dev
